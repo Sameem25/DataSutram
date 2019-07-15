@@ -5,8 +5,7 @@
 
 
 import pandas as pd
-import folium
-from folium.plugins import HeatMap
+import numpy as np
 import gmaps
 
 
