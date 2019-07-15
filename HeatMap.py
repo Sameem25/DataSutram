@@ -44,7 +44,7 @@ print (data)
 
 
 intensity = 12
-gmaps.configure(api_key="AIzaSyCYgcjKLZDPLo-sgfosWBbYz8ST8cqLZ8o")
+gmaps.configure(api_key="AIzaSyCY...")
 m = gmaps.Map()
 locations = data[['latitude', 'longitude']]
 
